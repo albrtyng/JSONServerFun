@@ -18,10 +18,12 @@
   },
   "pictures": [
     {
+      "id": 1,
       "src": "some random url/photo",
       "alt": "this be a random photo"
     },
     {
+      "id": 2,
       "src": "some other url/photo",
       "alt": "this be another photo"
     }
