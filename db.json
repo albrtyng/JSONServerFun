@@ -3,39 +3,9 @@
     {
       "id": 1,
       "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hey there"
-    },
-    {
-      "id": 3,
-      "title": "how r u"
     }
   ],
   "profile": {
-    "name": "albs"
-  },
-  "pictures": [
-    {
-      "src": "some random url/photo",
-      "alt": "this be a random photo"
-    },
-    {
-      "src": "some other url/photo",
-      "alt": "this be another photo"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ]
+    "name": "typicode"
+  }
 }
