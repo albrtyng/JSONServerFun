@@ -34,5 +34,6 @@
       "src":"this is another src",
       "alt": "some other alt"
     }
-  ]
+  ],
+  "anything": " doesn't matter what I put here"
 }
