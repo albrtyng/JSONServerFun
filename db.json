@@ -15,5 +15,15 @@
   ],
   "profile": {
     "name": "albs"
-  }
+  },
+  "pictures": [
+    {
+      "src": "some random url/photo",
+      "alt": "this be a random photo"
+    },
+    {
+      "src": "some other url/photo",
+      "alt": "this be another photo"
+    }
+  ]
 }
